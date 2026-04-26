@@ -30,7 +30,11 @@ Kali Linux VM → Windows VM → Splunk
 - [Failed Login Detection - Windows Event ID 4625](case-reports/failed-login-detection.md)
 
 ## Screenshots
-Screenshots will be added as detections are completed.
+- [Windows Security Log Event Viewer](screenshots/01-windows-security-log-event-viewer.png)
+- [Failed Login Event ID 4625](screenshots/02-failed-login-events-4625.png)
 
 ## What I Learned
-This section will be updated as the lab is built and detections are completed.
+- How Windows Security logs record authentication activity
+- How failed login attempts appear as Event ID 4625
+- How to use Event Viewer to investigate suspicious login behavior
+- How to document SOC-style findings in a case report
