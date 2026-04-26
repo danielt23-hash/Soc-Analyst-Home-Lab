@@ -27,7 +27,7 @@ Kali Linux VM → Windows VM → Splunk
 4. Network scanning activity
 
 ## Case Reports
-- Coming soon
+- [Failed Login Detection - Windows Event ID 4625](case-reports/failed-login-detection.md)
 
 ## Screenshots
 Screenshots will be added as detections are completed.
